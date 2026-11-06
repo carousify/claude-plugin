@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "carousify": {
+      "type": "http",
+      "url": "https://api.carousify.com/mcp"
+    }
+  }
+}

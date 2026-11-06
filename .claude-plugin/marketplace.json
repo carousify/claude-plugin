@@ -1,0 +1,14 @@
+{
+  "name": "carousify",
+  "owner": {
+    "name": "Carousify",
+    "email": "hello@carousify.com"
+  },
+  "plugins": [
+    {
+      "name": "carousify",
+      "source": "./",
+      "description": "Create, design, schedule and analyze LinkedIn and Instagram carousels and posts with Carousify: write carousels from templates or brand-new designs, apply your brand kit, render them, schedule or publish to your connected accounts, and review analytics."
+    }
+  ]
+}

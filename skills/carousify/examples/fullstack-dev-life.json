@@ -1,0 +1,2397 @@
+{
+  "name": "Full-Stack Developer Life",
+  "size": "56/71",
+  "usedFonts": [
+    "Poppins:700,600,400"
+  ],
+  "slideData": [
+    {
+      "id": 1,
+      "repeatable": false,
+      "backgroundColor": "#111111",
+      "elements": {
+        "brand-logo": {
+          "alignment": [],
+          "type": "image",
+          "content": "",
+          "position": {
+            "x": 28,
+            "y": 28
+          },
+          "size": {
+            "width": 50,
+            "height": 50
+          },
+          "styles": {
+            "letterSpacing": "0px",
+            "fontSize": "16px",
+            "fontFamily": "Poppins",
+            "color": "#000000",
+            "fontWeight": "400",
+            "textAlign": "left",
+            "lineHeight": "1.2",
+            "padding": "0px 0px 0px 0px",
+            "borderColor": "#2563EB",
+            "textDecoration": "none",
+            "transform": "none",
+            "borderRadius": "50% 50% 50% 50%",
+            "borderWidth": "2px",
+            "borderStyle": "solid",
+            "rotate": "0deg",
+            "fontStyle": "normal",
+            "backgroundColor": "transparent",
+            "textTransform": "none",
+            "opacity": "100",
+            "filter": "none",
+            "textFilter": "none"
+          },
+          "src": "/workspaces/6863f1ccf1e044e71b0c6725/UBS_1756117616801_images",
+          "hidden": false,
+          "locked": false
+        },
+        "brand-name": {
+          "alignment": [],
+          "type": "subheading",
+          "content": "Sunny Bundel",
+          "styles": {
+            "letterSpacing": "0px",
+            "fontSize": "14px",
+            "fontFamily": "Poppins",
+            "color": "#FFFFFF",
+            "fontWeight": "600",
+            "textAlign": "left",
+            "lineHeight": "1.2",
+            "padding": "0px 0px 0px 0px",
+            "borderColor": "transparent",
+            "textDecoration": "none",
+            "transform": "none",
+            "borderRadius": "0 0 0 0",
+            "borderWidth": "0px",
+            "borderStyle": "solid",
+            "rotate": "0deg",
+            "fontStyle": "normal",
+            "backgroundColor": "transparent",
+            "textTransform": "none",
+            "opacity": "100",
+            "filter": "none",
+            "textFilter": "none"
+          },
+          "position": {
+            "x": 86,
+            "y": 30
+          },
+          "size": {
+            "height": 24,
+            "width": 140
+          },
+          "hidden": false,
+          "locked": false
+        },
+        "brand-user": {
+          "alignment": [],
+          "type": "text",
+          "content": "@sunnybundel",
+          "styles": {
+            "letterSpacing": "0px",
+            "fontSize": "12px",
+            "fontFamily": "Poppins",
+            "color": "#6B7280",
+            "fontWeight": "400",
+            "textAlign": "left",
+            "lineHeight": "1.2",
+            "padding": "0px 0px 0px 0px",
+            "borderColor": "transparent",
+            "textDecoration": "none",
+            "transform": "none",
+            "borderRadius": "0 0 0 0",
+            "borderWidth": "0px",
+            "borderStyle": "solid",
+            "rotate": "0deg",
+            "fontStyle": "normal",
+            "backgroundColor": "transparent",
+            "textTransform": "none",
+            "opacity": "100",
+            "filter": "none",
+            "textFilter": "none"
+          },
+          "position": {
+            "x": 86,
+            "y": 50
+          },
+          "size": {
+            "height": 22,
+            "width": 140
+          },
+          "hidden": false,
+          "locked": false
+        },
+        "numbering": {
+          "alignment": [],
+          "content": "",
+          "type": "text",
+          "locked": false,
+          "styles": {
+            "letterSpacing": "0px",
+            "fontSize": "13px",
+            "fontFamily": "Poppins",
+            "color": "#2563EB",
+            "fontWeight": "600",
+            "textAlign": "center",
+            "lineHeight": "1.5",
+            "padding": "0px 0px 0px 0px",
+            "borderColor": "#2563EB",
+            "textDecoration": "none",
+            "transform": "none",
+            "borderRadius": "50% 50% 50% 50%",
+            "borderWidth": "1px",
+            "borderStyle": "solid",
+            "rotate": "0deg",
+            "fontStyle": "normal",
+            "backgroundColor": "transparent",
+            "textTransform": "none",
+            "opacity": "100",
+            "filter": "none",
+            "textFilter": "none"
+          },
+          "position": {
+            "x": 330,
+            "y": 28
+          },
+          "size": {
+            "height": 26,
+            "width": 26
+          },
+          "hidden": true
+        },
+        "shape-1-0": {
+          "alignment": [],
+          "type": "shape",
+          "content": "rectangle",
+          "styles": {
+            "letterSpacing": "1px",
+            "fontSize": "16px",
+            "fontFamily": "Poppins",
+            "color": "#000000",
+            "fontWeight": "400",
+            "textAlign": "left",
+            "lineHeight": "1.2",
+            "padding": "0px 0px 0px 0px",
+            "borderColor": "transparent",
+            "textDecoration": "none",
+            "transform": "none",
+            "borderRadius": "0 0 0 0",
+            "borderWidth": "0px",
+            "borderStyle": "solid",
+            "rotate": "0deg",
+            "fontStyle": "normal",
+            "backgroundColor": "#2563EB",
+            "textTransform": "none",
+            "opacity": "100",
+            "filter": "none",
+            "textFilter": "none"
+          },
+          "position": {
+            "x": 0,
+            "y": 0
+          },
+          "size": {
+            "height": 480,
+            "width": 5
+          },
+          "hidden": false,
+          "locked": false
+        },
+        "heading-1-0": {
+          "alignment": [],
+          "type": "heading",
+          "content": "Being a<br><font color=\"#2563EB\">full-stack</font><br>developer<br>means I never<br>have the same<br>day twice.",
+          "styles": {
+            "letterSpacing": "-1px",
+            "fontSize": "40px",
+            "fontFamily": "Poppins",
+            "color": "#FFFFFF",
+            "fontWeight": "700",
+            "textAlign": "left",
+            "lineHeight": "1.1",
+            "padding": "0px 0px 0px 0px",
+            "borderColor": "transparent",
+            "textDecoration": "none",
+            "transform": "none",
+            "borderRadius": "0 0 0 0",
+            "borderWidth": "0px",
+            "borderStyle": "solid",
+            "rotate": "0deg",
+            "fontStyle": "normal",
+            "backgroundColor": "transparent",
+            "textTransform": "none",
+            "opacity": "100",
+            "filter": "none",
+            "textFilter": "none"
+          },
+          "position": {
+            "x": 28,
+            "y": 120
+          },
+          "size": {
+            "height": 280,
+            "width": 340
+          },
+          "hidden": false,
+          "locked": false
+        },
+        "subheading-1-0": {
+          "alignment": [],
+          "type": "subheading",
+          "content": "SWIPE \u2192",
+          "styles": {
+            "letterSpacing": "3px",
+            "fontSize": "10px",
+            "fontFamily": "Poppins",
+            "color": "#2563EB",
+            "fontWeight": "600",
+            "textAlign": "left",
+            "lineHeight": "1.2",
+            "padding": "0px 0px 0px 0px",
+            "borderColor": "transparent",
+            "textDecoration": "none",
+            "transform": "none",
+            "borderRadius": "0 0 0 0",
+            "borderWidth": "0px",
+            "borderStyle": "solid",
+            "rotate": "0deg",
+            "fontStyle": "normal",
+            "backgroundColor": "transparent",
+            "textTransform": "uppercase",
+            "opacity": "100",
+            "filter": "none",
+            "textFilter": "none"
+          },
+          "position": {
+            "x": 28,
+            "y": 448
+          },
+          "size": {
+            "height": 18,
+            "width": 100
+          },
+          "hidden": false,
+          "locked": false
+        }
+      },
+      "groups": []
+    },
+    {
+      "id": 2,
+      "repeatable": true,
+      "backgroundColor": "#FFFFFF",
+      "elements": {
+        "brand-logo": {
+          "alignment": [],
+          "type": "image",
+          "content": "",
+          "position": {
+            "x": 28,
+            "y": 28
+          },
+          "size": {
+            "width": 50,
+            "height": 50
+          },
+          "styles": {
+            "letterSpacing": "0px",
+            "fontSize": "16px",
+            "fontFamily": "Poppins",
+            "color": "#000000",
+            "fontWeight": "400",
+            "textAlign": "left",
+            "lineHeight": "1.2",
+            "padding": "0px 0px 0px 0px",
+            "borderColor": "#111111",
+            "textDecoration": "none",
+            "transform": "none",
+            "borderRadius": "50% 50% 50% 50%",
+            "borderWidth": "2px",
+            "borderStyle": "solid",
+            "rotate": "0deg",
+            "fontStyle": "normal",
+            "backgroundColor": "transparent",
+            "textTransform": "none",
+            "opacity": "100",
+            "filter": "none",
+            "textFilter": "none"
+          },
+          "src": "/workspaces/6863f1ccf1e044e71b0c6725/UBS_1756117616801_images",
+          "hidden": true,
+          "locked": false
+        },
+        "brand-name": {
+          "alignment": [],
+          "type": "subheading",
+          "content": "Sunny Bundel",
+          "styles": {
+            "letterSpacing": "0px",
+            "fontSize": "14px",
+            "fontFamily": "Poppins",
+            "color": "#111111",
+            "fontWeight": "600",
+            "textAlign": "left",
+            "lineHeight": "1.2",
+            "padding": "0px 0px 0px 0px",
+            "borderColor": "transparent",
+            "textDecoration": "none",
+            "transform": "none",
+            "borderRadius": "0 0 0 0",
+            "borderWidth": "0px",
+            "borderStyle": "solid",
+            "rotate": "0deg",
+            "fontStyle": "normal",
+            "backgroundColor": "transparent",
+            "textTransform": "none",
+            "opacity": "100",
+            "filter": "none",
+            "textFilter": "none"
+          },
+          "position": {
+            "x": 86,
+            "y": 30
+          },
+          "size": {
+            "height": 24,
+            "width": 140
+          },
+          "hidden": true,
+          "locked": false
+        },
+        "brand-user": {
+          "alignment": [],
+          "type": "text",
+          "content": "@sunnybundel",
+          "styles": {
+            "letterSpacing": "0px",
+            "fontSize": "12px",
+            "fontFamily": "Poppins",
+            "color": "#6B7280",
+            "fontWeight": "400",
+            "textAlign": "left",
+            "lineHeight": "1.2",
+            "padding": "0px 0px 0px 0px",
+            "borderColor": "transparent",
+            "textDecoration": "none",
+            "transform": "none",
+            "borderRadius": "0 0 0 0",
+            "borderWidth": "0px",
+            "borderStyle": "solid",
+            "rotate": "0deg",
+            "fontStyle": "normal",
+            "backgroundColor": "transparent",
+            "textTransform": "none",
+            "opacity": "100",
+            "filter": "none",
+            "textFilter": "none"
+          },
+          "position": {
+            "x": 86,
+            "y": 50
+          },
+          "size": {
+            "height": 22,
+            "width": 140
+          },
+          "hidden": true,
+          "locked": false
+        },
+        "numbering": {
+          "alignment": [],
+          "content": "",
+          "type": "text",
+          "locked": false,
+          "styles": {
+            "letterSpacing": "0px",
+            "fontSize": "13px",
+            "fontFamily": "Poppins",
+            "color": "#2563EB",
+            "fontWeight": "600",
+            "textAlign": "center",
+            "lineHeight": "1.5",
+            "padding": "0px 0px 0px 0px",
+            "borderColor": "#2563EB",
+            "textDecoration": "none",
+            "transform": "none",
+            "borderRadius": "50% 50% 50% 50%",
+            "borderWidth": "1px",
+            "borderStyle": "solid",
+            "rotate": "0deg",
+            "fontStyle": "normal",
+            "backgroundColor": "transparent",
+            "textTransform": "none",
+            "opacity": "100",
+            "filter": "none",
+            "textFilter": "none"
+          },
+          "position": {
+            "x": 330,
+            "y": 28
+          },
+          "size": {
+            "height": 26,
+            "width": 26
+          },
+          "hidden": true
+        },
+        "shape-2-0": {
+          "alignment": [],
+          "type": "shape",
+          "content": "rectangle",
+          "styles": {
+            "letterSpacing": "1px",
+            "fontSize": "16px",
+            "fontFamily": "Poppins",
+            "color": "#000000",
+            "fontWeight": "400",
+            "textAlign": "left",
+            "lineHeight": "1.2",
+            "padding": "0px 0px 0px 0px",
+            "borderColor": "transparent",
+            "textDecoration": "none",
+            "transform": "none",
+            "borderRadius": "0 0 0 0",
+            "borderWidth": "0px",
+            "borderStyle": "solid",
+            "rotate": "0deg",
+            "fontStyle": "normal",
+            "backgroundColor": "#2563EB",
+            "textTransform": "none",
+            "opacity": "100",
+            "filter": "none",
+            "textFilter": "none"
+          },
+          "position": {
+            "x": 28,
+            "y": 28
+          },
+          "size": {
+            "height": 44,
+            "width": 4
+          },
+          "hidden": false,
+          "locked": false
+        },
+        "subheading-2-0": {
+          "alignment": [],
+          "type": "subheading",
+          "content": "The Weekly Reality",
+          "styles": {
+            "letterSpacing": "0px",
+            "fontSize": "13px",
+            "fontFamily": "Poppins",
+            "color": "#111111",
+            "fontWeight": "700",
+            "textAlign": "left",
+            "lineHeight": "1.2",
+            "padding": "0px 0px 0px 0px",
+            "borderColor": "transparent",
+            "textDecoration": "none",
+            "transform": "none",
+            "borderRadius": "0 0 0 0",
+            "borderWidth": "0px",
+            "borderStyle": "solid",
+            "rotate": "0deg",
+            "fontStyle": "normal",
+            "backgroundColor": "transparent",
+            "textTransform": "none",
+            "opacity": "100",
+            "filter": "none",
+            "textFilter": "none"
+          },
+          "position": {
+            "x": 44,
+            "y": 35
+          },
+          "size": {
+            "height": 24,
+            "width": 200
+          },
+          "hidden": false,
+          "locked": false
+        },
+        "text-2-0": {
+          "alignment": [],
+          "type": "text",
+          "content": "<b><font color=\"#2563EB\">Monday</font></b>&nbsp;&nbsp;\u2192&nbsp;&nbsp;Designing a UI<br><br><b><font color=\"#2563EB\">Tuesday</font></b>&nbsp;&nbsp;\u2192&nbsp;&nbsp;Debugging an API<br><br><b><font color=\"#2563EB\">Wednesday</font></b>&nbsp;&nbsp;\u2192&nbsp;&nbsp;Writing DB queries<br><br><b><font color=\"#2563EB\">Thursday</font></b>&nbsp;&nbsp;\u2192&nbsp;&nbsp;Optimizing page speed<br><br><b><font color=\"#2563EB\">Friday</font></b>&nbsp;&nbsp;\u2192&nbsp;&nbsp;Shipping the feature",
+          "styles": {
+            "letterSpacing": "0px",
+            "fontSize": "14px",
+            "fontFamily": "Poppins",
+            "color": "#111111",
+            "fontWeight": "400",
+            "textAlign": "left",
+            "lineHeight": "1.5",
+            "padding": "0px 0px 0px 0px",
+            "borderColor": "transparent",
+            "textDecoration": "none",
+            "transform": "none",
+            "borderRadius": "0 0 0 0",
+            "borderWidth": "0px",
+            "borderStyle": "solid",
+            "rotate": "0deg",
+            "fontStyle": "normal",
+            "backgroundColor": "transparent",
+            "textTransform": "none",
+            "opacity": "100",
+            "filter": "none",
+            "textFilter": "none"
+          },
+          "position": {
+            "x": 28,
+            "y": 100
+          },
+          "size": {
+            "height": 250,
+            "width": 330
+          },
+          "hidden": false,
+          "locked": false
+        },
+        "shape-2-1": {
+          "alignment": [],
+          "type": "shape",
+          "content": "line",
+          "styles": {
+            "letterSpacing": "1px",
+            "fontSize": "16px",
+            "fontFamily": "Poppins",
+            "color": "#000000",
+            "fontWeight": "400",
+            "textAlign": "left",
+            "lineHeight": "1.2",
+            "padding": "0px 0px 0px 0px",
+            "borderColor": "#E5E7EB",
+            "textDecoration": "none",
+            "transform": "none",
+            "borderRadius": "0 0 0 0",
+            "borderWidth": "1px",
+            "borderStyle": "solid",
+            "rotate": "0deg",
+            "fontStyle": "normal",
+            "backgroundColor": "#E5E7EB",
+            "textTransform": "none",
+            "opacity": "100",
+            "filter": "none",
+            "textFilter": "none"
+          },
+          "position": {
+            "x": 28,
+            "y": 370
+          },
+          "size": {
+            "height": 10,
+            "width": 324
+          },
+          "hidden": false,
+          "locked": false
+        },
+        "text-2-1": {
+          "alignment": [],
+          "type": "text",
+          "content": "Most people specialize.",
+          "styles": {
+            "letterSpacing": "0px",
+            "fontSize": "14px",
+            "fontFamily": "Poppins",
+            "color": "#6B7280",
+            "fontWeight": "400",
+            "textAlign": "left",
+            "lineHeight": "1.4",
+            "padding": "0px 0px 0px 0px",
+            "borderColor": "transparent",
+            "textDecoration": "none",
+            "transform": "none",
+            "borderRadius": "0 0 0 0",
+            "borderWidth": "0px",
+            "borderStyle": "solid",
+            "rotate": "0deg",
+            "fontStyle": "normal",
+            "backgroundColor": "transparent",
+            "textTransform": "none",
+            "opacity": "100",
+            "filter": "none",
+            "textFilter": "none"
+          },
+          "position": {
+            "x": 28,
+            "y": 392
+          },
+          "size": {
+            "height": 24,
+            "width": 300
+          },
+          "hidden": false,
+          "locked": false
+        },
+        "heading-2-0": {
+          "alignment": [],
+          "type": "heading",
+          "content": "I chose <font color=\"#2563EB\">chaos</font>.",
+          "styles": {
+            "letterSpacing": "-0.5px",
+            "fontSize": "28px",
+            "fontFamily": "Poppins",
+            "color": "#111111",
+            "fontWeight": "700",
+            "textAlign": "left",
+            "lineHeight": "1.1",
+            "padding": "0px 0px 0px 0px",
+            "borderColor": "transparent",
+            "textDecoration": "none",
+            "transform": "none",
+            "borderRadius": "0 0 0 0",
+            "borderWidth": "0px",
+            "borderStyle": "solid",
+            "rotate": "0deg",
+            "fontStyle": "normal",
+            "backgroundColor": "transparent",
+            "textTransform": "none",
+            "opacity": "100",
+            "filter": "none",
+            "textFilter": "none"
+          },
+          "position": {
+            "x": 28,
+            "y": 420
+          },
+          "size": {
+            "height": 40,
+            "width": 300
+          },
+          "hidden": false,
+          "locked": false
+        }
+      },
+      "groups": []
+    },
+    {
+      "id": 3,
+      "repeatable": false,
+      "backgroundColor": "#FFFFFF",
+      "elements": {
+        "brand-logo": {
+          "alignment": [],
+          "type": "image",
+          "content": "",
+          "position": {
+            "x": 28,
+            "y": 28
+          },
+          "size": {
+            "width": 50,
+            "height": 50
+          },
+          "styles": {
+            "letterSpacing": "0px",
+            "fontSize": "16px",
+            "fontFamily": "Poppins",
+            "color": "#000000",
+            "fontWeight": "400",
+            "textAlign": "left",
+            "lineHeight": "1.2",
+            "padding": "0px 0px 0px 0px",
+            "borderColor": "#111111",
+            "textDecoration": "none",
+            "transform": "none",
+            "borderRadius": "50% 50% 50% 50%",
+            "borderWidth": "2px",
+            "borderStyle": "solid",
+            "rotate": "0deg",
+            "fontStyle": "normal",
+            "backgroundColor": "transparent",
+            "textTransform": "none",
+            "opacity": "100",
+            "filter": "none",
+            "textFilter": "none"
+          },
+          "src": "/workspaces/6863f1ccf1e044e71b0c6725/UBS_1756117616801_images",
+          "hidden": true,
+          "locked": false
+        },
+        "brand-name": {
+          "alignment": [],
+          "type": "subheading",
+          "content": "Sunny Bundel",
+          "styles": {
+            "letterSpacing": "0px",
+            "fontSize": "14px",
+            "fontFamily": "Poppins",
+            "color": "#111111",
+            "fontWeight": "600",
+            "textAlign": "left",
+            "lineHeight": "1.2",
+            "padding": "0px 0px 0px 0px",
+            "borderColor": "transparent",
+            "textDecoration": "none",
+            "transform": "none",
+            "borderRadius": "0 0 0 0",
+            "borderWidth": "0px",
+            "borderStyle": "solid",
+            "rotate": "0deg",
+            "fontStyle": "normal",
+            "backgroundColor": "transparent",
+            "textTransform": "none",
+            "opacity": "100",
+            "filter": "none",
+            "textFilter": "none"
+          },
+          "position": {
+            "x": 86,
+            "y": 30
+          },
+          "size": {
+            "height": 24,
+            "width": 140
+          },
+          "hidden": true,
+          "locked": false
+        },
+        "brand-user": {
+          "alignment": [],
+          "type": "text",
+          "content": "@sunnybundel",
+          "styles": {
+            "letterSpacing": "0px",
+            "fontSize": "12px",
+            "fontFamily": "Poppins",
+            "color": "#6B7280",
+            "fontWeight": "400",
+            "textAlign": "left",
+            "lineHeight": "1.2",
+            "padding": "0px 0px 0px 0px",
+            "borderColor": "transparent",
+            "textDecoration": "none",
+            "transform": "none",
+            "borderRadius": "0 0 0 0",
+            "borderWidth": "0px",
+            "borderStyle": "solid",
+            "rotate": "0deg",
+            "fontStyle": "normal",
+            "backgroundColor": "transparent",
+            "textTransform": "none",
+            "opacity": "100",
+            "filter": "none",
+            "textFilter": "none"
+          },
+          "position": {
+            "x": 86,
+            "y": 50
+          },
+          "size": {
+            "height": 22,
+            "width": 140
+          },
+          "hidden": true,
+          "locked": false
+        },
+        "numbering": {
+          "alignment": [],
+          "content": "",
+          "type": "text",
+          "locked": false,
+          "styles": {
+            "letterSpacing": "0px",
+            "fontSize": "13px",
+            "fontFamily": "Poppins",
+            "color": "#2563EB",
+            "fontWeight": "600",
+            "textAlign": "center",
+            "lineHeight": "1.5",
+            "padding": "0px 0px 0px 0px",
+            "borderColor": "#2563EB",
+            "textDecoration": "none",
+            "transform": "none",
+            "borderRadius": "50% 50% 50% 50%",
+            "borderWidth": "1px",
+            "borderStyle": "solid",
+            "rotate": "0deg",
+            "fontStyle": "normal",
+            "backgroundColor": "transparent",
+            "textTransform": "none",
+            "opacity": "100",
+            "filter": "none",
+            "textFilter": "none"
+          },
+          "position": {
+            "x": 330,
+            "y": 28
+          },
+          "size": {
+            "height": 26,
+            "width": 26
+          },
+          "hidden": true
+        },
+        "heading-3-0": {
+          "alignment": [],
+          "type": "heading",
+          "content": "What nobody<br>tells you about<br>being <font color=\"#2563EB\">full-stack</font>:",
+          "styles": {
+            "letterSpacing": "-0.5px",
+            "fontSize": "32px",
+            "fontFamily": "Poppins",
+            "color": "#111111",
+            "fontWeight": "700",
+            "textAlign": "left",
+            "lineHeight": "1.1",
+            "padding": "0px 0px 0px 0px",
+            "borderColor": "transparent",
+            "textDecoration": "none",
+            "transform": "none",
+            "borderRadius": "0 0 0 0",
+            "borderWidth": "0px",
+            "borderStyle": "solid",
+            "rotate": "0deg",
+            "fontStyle": "normal",
+            "backgroundColor": "transparent",
+            "textTransform": "none",
+            "opacity": "100",
+            "filter": "none",
+            "textFilter": "none"
+          },
+          "position": {
+            "x": 28,
+            "y": 35
+          },
+          "size": {
+            "height": 125,
+            "width": 340
+          },
+          "hidden": false,
+          "locked": false
+        },
+        "shape-3-0": {
+          "alignment": [],
+          "type": "shape",
+          "content": "line",
+          "styles": {
+            "letterSpacing": "1px",
+            "fontSize": "16px",
+            "fontFamily": "Poppins",
+            "color": "#000000",
+            "fontWeight": "400",
+            "textAlign": "left",
+            "lineHeight": "1.2",
+            "padding": "0px 0px 0px 0px",
+            "borderColor": "#2563EB",
+            "textDecoration": "none",
+            "transform": "none",
+            "borderRadius": "0 0 0 0",
+            "borderWidth": "1px",
+            "borderStyle": "solid",
+            "rotate": "0deg",
+            "fontStyle": "normal",
+            "backgroundColor": "#2563EB",
+            "textTransform": "none",
+            "opacity": "100",
+            "filter": "none",
+            "textFilter": "none"
+          },
+          "position": {
+            "x": 28,
+            "y": 175
+          },
+          "size": {
+            "height": 10,
+            "width": 50
+          },
+          "hidden": false,
+          "locked": false
+        },
+        "text-3-0": {
+          "alignment": [],
+          "type": "text",
+          "content": "Every new feature teaches you something you didn't know yesterday.",
+          "styles": {
+            "letterSpacing": "0px",
+            "fontSize": "14px",
+            "fontFamily": "Poppins",
+            "color": "#111111",
+            "fontWeight": "400",
+            "textAlign": "left",
+            "lineHeight": "1.5",
+            "padding": "0px 0px 0px 0px",
+            "borderColor": "transparent",
+            "textDecoration": "none",
+            "transform": "none",
+            "borderRadius": "0 0 0 0",
+            "borderWidth": "0px",
+            "borderStyle": "solid",
+            "rotate": "0deg",
+            "fontStyle": "normal",
+            "backgroundColor": "transparent",
+            "textTransform": "none",
+            "opacity": "100",
+            "filter": "none",
+            "textFilter": "none"
+          },
+          "position": {
+            "x": 28,
+            "y": 200
+          },
+          "size": {
+            "height": 45,
+            "width": 330
+          },
+          "hidden": false,
+          "locked": false
+        },
+        "text-3-1": {
+          "alignment": [],
+          "type": "text",
+          "content": "You see the entire picture \u2014 not just your corner of it.",
+          "styles": {
+            "letterSpacing": "0px",
+            "fontSize": "14px",
+            "fontFamily": "Poppins",
+            "color": "#111111",
+            "fontWeight": "400",
+            "textAlign": "left",
+            "lineHeight": "1.5",
+            "padding": "0px 0px 0px 0px",
+            "borderColor": "transparent",
+            "textDecoration": "none",
+            "transform": "none",
+            "borderRadius": "0 0 0 0",
+            "borderWidth": "0px",
+            "borderStyle": "solid",
+            "rotate": "0deg",
+            "fontStyle": "normal",
+            "backgroundColor": "transparent",
+            "textTransform": "none",
+            "opacity": "100",
+            "filter": "none",
+            "textFilter": "none"
+          },
+          "position": {
+            "x": 28,
+            "y": 260
+          },
+          "size": {
+            "height": 45,
+            "width": 330
+          },
+          "hidden": false,
+          "locked": false
+        },
+        "text-3-2": {
+          "alignment": [],
+          "type": "text",
+          "content": "You ship faster because you're not waiting on anyone.",
+          "styles": {
+            "letterSpacing": "0px",
+            "fontSize": "14px",
+            "fontFamily": "Poppins",
+            "color": "#111111",
+            "fontWeight": "400",
+            "textAlign": "left",
+            "lineHeight": "1.5",
+            "padding": "0px 0px 0px 0px",
+            "borderColor": "transparent",
+            "textDecoration": "none",
+            "transform": "none",
+            "borderRadius": "0 0 0 0",
+            "borderWidth": "0px",
+            "borderStyle": "solid",
+            "rotate": "0deg",
+            "fontStyle": "normal",
+            "backgroundColor": "transparent",
+            "textTransform": "none",
+            "opacity": "100",
+            "filter": "none",
+            "textFilter": "none"
+          },
+          "position": {
+            "x": 28,
+            "y": 320
+          },
+          "size": {
+            "height": 45,
+            "width": 330
+          },
+          "hidden": false,
+          "locked": false
+        },
+        "text-3-3": {
+          "alignment": [],
+          "type": "text",
+          "content": "You break things faster too \u2014 but you also fix them faster.",
+          "styles": {
+            "letterSpacing": "0px",
+            "fontSize": "14px",
+            "fontFamily": "Poppins",
+            "color": "#111111",
+            "fontWeight": "400",
+            "textAlign": "left",
+            "lineHeight": "1.5",
+            "padding": "0px 0px 0px 0px",
+            "borderColor": "transparent",
+            "textDecoration": "none",
+            "transform": "none",
+            "borderRadius": "0 0 0 0",
+            "borderWidth": "0px",
+            "borderStyle": "solid",
+            "rotate": "0deg",
+            "fontStyle": "normal",
+            "backgroundColor": "transparent",
+            "textTransform": "none",
+            "opacity": "100",
+            "filter": "none",
+            "textFilter": "none"
+          },
+          "position": {
+            "x": 28,
+            "y": 380
+          },
+          "size": {
+            "height": 45,
+            "width": 330
+          },
+          "hidden": false,
+          "locked": false
+        },
+        "shape-3-1": {
+          "alignment": [],
+          "type": "shape",
+          "content": "circle",
+          "styles": {
+            "letterSpacing": "1px",
+            "fontSize": "16px",
+            "fontFamily": "Poppins",
+            "color": "#000000",
+            "fontWeight": "400",
+            "textAlign": "left",
+            "lineHeight": "1.2",
+            "padding": "0px 0px 0px 0px",
+            "borderColor": "transparent",
+            "textDecoration": "none",
+            "transform": "none",
+            "borderRadius": "0 0 0 0",
+            "borderWidth": "0px",
+            "borderStyle": "solid",
+            "rotate": "0deg",
+            "fontStyle": "normal",
+            "backgroundColor": "#2563EB",
+            "textTransform": "none",
+            "opacity": "100",
+            "filter": "none",
+            "textFilter": "none"
+          },
+          "position": {
+            "x": 18,
+            "y": 208
+          },
+          "size": {
+            "height": 6,
+            "width": 6
+          },
+          "hidden": false,
+          "locked": false
+        },
+        "shape-3-2": {
+          "alignment": [],
+          "type": "shape",
+          "content": "circle",
+          "styles": {
+            "letterSpacing": "1px",
+            "fontSize": "16px",
+            "fontFamily": "Poppins",
+            "color": "#000000",
+            "fontWeight": "400",
+            "textAlign": "left",
+            "lineHeight": "1.2",
+            "padding": "0px 0px 0px 0px",
+            "borderColor": "transparent",
+            "textDecoration": "none",
+            "transform": "none",
+            "borderRadius": "0 0 0 0",
+            "borderWidth": "0px",
+            "borderStyle": "solid",
+            "rotate": "0deg",
+            "fontStyle": "normal",
+            "backgroundColor": "#2563EB",
+            "textTransform": "none",
+            "opacity": "100",
+            "filter": "none",
+            "textFilter": "none"
+          },
+          "position": {
+            "x": 18,
+            "y": 268
+          },
+          "size": {
+            "height": 6,
+            "width": 6
+          },
+          "hidden": false,
+          "locked": false
+        },
+        "shape-3-3": {
+          "alignment": [],
+          "type": "shape",
+          "content": "circle",
+          "styles": {
+            "letterSpacing": "1px",
+            "fontSize": "16px",
+            "fontFamily": "Poppins",
+            "color": "#000000",
+            "fontWeight": "400",
+            "textAlign": "left",
+            "lineHeight": "1.2",
+            "padding": "0px 0px 0px 0px",
+            "borderColor": "transparent",
+            "textDecoration": "none",
+            "transform": "none",
+            "borderRadius": "0 0 0 0",
+            "borderWidth": "0px",
+            "borderStyle": "solid",
+            "rotate": "0deg",
+            "fontStyle": "normal",
+            "backgroundColor": "#2563EB",
+            "textTransform": "none",
+            "opacity": "100",
+            "filter": "none",
+            "textFilter": "none"
+          },
+          "position": {
+            "x": 18,
+            "y": 328
+          },
+          "size": {
+            "height": 6,
+            "width": 6
+          },
+          "hidden": false,
+          "locked": false
+        },
+        "shape-3-4": {
+          "alignment": [],
+          "type": "shape",
+          "content": "circle",
+          "styles": {
+            "letterSpacing": "1px",
+            "fontSize": "16px",
+            "fontFamily": "Poppins",
+            "color": "#000000",
+            "fontWeight": "400",
+            "textAlign": "left",
+            "lineHeight": "1.2",
+            "padding": "0px 0px 0px 0px",
+            "borderColor": "transparent",
+            "textDecoration": "none",
+            "transform": "none",
+            "borderRadius": "0 0 0 0",
+            "borderWidth": "0px",
+            "borderStyle": "solid",
+            "rotate": "0deg",
+            "fontStyle": "normal",
+            "backgroundColor": "#2563EB",
+            "textTransform": "none",
+            "opacity": "100",
+            "filter": "none",
+            "textFilter": "none"
+          },
+          "position": {
+            "x": 18,
+            "y": 388
+          },
+          "size": {
+            "height": 6,
+            "width": 6
+          },
+          "hidden": false,
+          "locked": false
+        }
+      },
+      "groups": []
+    },
+    {
+      "id": 4,
+      "repeatable": false,
+      "backgroundColor": "#111111",
+      "elements": {
+        "brand-logo": {
+          "alignment": [],
+          "type": "image",
+          "content": "",
+          "position": {
+            "x": 28,
+            "y": 28
+          },
+          "size": {
+            "width": 50,
+            "height": 50
+          },
+          "styles": {
+            "letterSpacing": "0px",
+            "fontSize": "16px",
+            "fontFamily": "Poppins",
+            "color": "#000000",
+            "fontWeight": "400",
+            "textAlign": "left",
+            "lineHeight": "1.2",
+            "padding": "0px 0px 0px 0px",
+            "borderColor": "#2563EB",
+            "textDecoration": "none",
+            "transform": "none",
+            "borderRadius": "50% 50% 50% 50%",
+            "borderWidth": "2px",
+            "borderStyle": "solid",
+            "rotate": "0deg",
+            "fontStyle": "normal",
+            "backgroundColor": "transparent",
+            "textTransform": "none",
+            "opacity": "100",
+            "filter": "none",
+            "textFilter": "none"
+          },
+          "src": "/workspaces/6863f1ccf1e044e71b0c6725/UBS_1756117616801_images",
+          "hidden": true,
+          "locked": false
+        },
+        "brand-name": {
+          "alignment": [],
+          "type": "subheading",
+          "content": "Sunny Bundel",
+          "styles": {
+            "letterSpacing": "0px",
+            "fontSize": "14px",
+            "fontFamily": "Poppins",
+            "color": "#FFFFFF",
+            "fontWeight": "600",
+            "textAlign": "left",
+            "lineHeight": "1.2",
+            "padding": "0px 0px 0px 0px",
+            "borderColor": "transparent",
+            "textDecoration": "none",
+            "transform": "none",
+            "borderRadius": "0 0 0 0",
+            "borderWidth": "0px",
+            "borderStyle": "solid",
+            "rotate": "0deg",
+            "fontStyle": "normal",
+            "backgroundColor": "transparent",
+            "textTransform": "none",
+            "opacity": "100",
+            "filter": "none",
+            "textFilter": "none"
+          },
+          "position": {
+            "x": 86,
+            "y": 30
+          },
+          "size": {
+            "height": 24,
+            "width": 140
+          },
+          "hidden": true,
+          "locked": false
+        },
+        "brand-user": {
+          "alignment": [],
+          "type": "text",
+          "content": "@sunnybundel",
+          "styles": {
+            "letterSpacing": "0px",
+            "fontSize": "12px",
+            "fontFamily": "Poppins",
+            "color": "#6B7280",
+            "fontWeight": "400",
+            "textAlign": "left",
+            "lineHeight": "1.2",
+            "padding": "0px 0px 0px 0px",
+            "borderColor": "transparent",
+            "textDecoration": "none",
+            "transform": "none",
+            "borderRadius": "0 0 0 0",
+            "borderWidth": "0px",
+            "borderStyle": "solid",
+            "rotate": "0deg",
+            "fontStyle": "normal",
+            "backgroundColor": "transparent",
+            "textTransform": "none",
+            "opacity": "100",
+            "filter": "none",
+            "textFilter": "none"
+          },
+          "position": {
+            "x": 86,
+            "y": 50
+          },
+          "size": {
+            "height": 22,
+            "width": 140
+          },
+          "hidden": true,
+          "locked": false
+        },
+        "numbering": {
+          "alignment": [],
+          "content": "",
+          "type": "text",
+          "locked": false,
+          "styles": {
+            "letterSpacing": "0px",
+            "fontSize": "13px",
+            "fontFamily": "Poppins",
+            "color": "#2563EB",
+            "fontWeight": "600",
+            "textAlign": "center",
+            "lineHeight": "1.5",
+            "padding": "0px 0px 0px 0px",
+            "borderColor": "#2563EB",
+            "textDecoration": "none",
+            "transform": "none",
+            "borderRadius": "50% 50% 50% 50%",
+            "borderWidth": "1px",
+            "borderStyle": "solid",
+            "rotate": "0deg",
+            "fontStyle": "normal",
+            "backgroundColor": "transparent",
+            "textTransform": "none",
+            "opacity": "100",
+            "filter": "none",
+            "textFilter": "none"
+          },
+          "position": {
+            "x": 330,
+            "y": 28
+          },
+          "size": {
+            "height": 26,
+            "width": 26
+          },
+          "hidden": true
+        },
+        "shape-4-0": {
+          "alignment": [],
+          "type": "shape",
+          "content": "rectangle",
+          "styles": {
+            "letterSpacing": "1px",
+            "fontSize": "16px",
+            "fontFamily": "Poppins",
+            "color": "#000000",
+            "fontWeight": "400",
+            "textAlign": "left",
+            "lineHeight": "1.2",
+            "padding": "0px 0px 0px 0px",
+            "borderColor": "transparent",
+            "textDecoration": "none",
+            "transform": "none",
+            "borderRadius": "0 0 0 0",
+            "borderWidth": "0px",
+            "borderStyle": "solid",
+            "rotate": "0deg",
+            "fontStyle": "normal",
+            "backgroundColor": "#2563EB",
+            "textTransform": "none",
+            "opacity": "100",
+            "filter": "none",
+            "textFilter": "none"
+          },
+          "position": {
+            "x": 0,
+            "y": 0
+          },
+          "size": {
+            "height": 480,
+            "width": 5
+          },
+          "hidden": false,
+          "locked": false
+        },
+        "heading-4-0": {
+          "alignment": [],
+          "type": "heading",
+          "content": "Building<br><font color=\"#2563EB\">@Carousify</font><br>as a solo<br>full-stack<br>founder.",
+          "styles": {
+            "letterSpacing": "-1px",
+            "fontSize": "38px",
+            "fontFamily": "Poppins",
+            "color": "#FFFFFF",
+            "fontWeight": "700",
+            "textAlign": "left",
+            "lineHeight": "1.1",
+            "padding": "0px 0px 0px 0px",
+            "borderColor": "transparent",
+            "textDecoration": "none",
+            "transform": "none",
+            "borderRadius": "0 0 0 0",
+            "borderWidth": "0px",
+            "borderStyle": "solid",
+            "rotate": "0deg",
+            "fontStyle": "normal",
+            "backgroundColor": "transparent",
+            "textTransform": "none",
+            "opacity": "100",
+            "filter": "none",
+            "textFilter": "none"
+          },
+          "position": {
+            "x": 28,
+            "y": 40
+          },
+          "size": {
+            "height": 230,
+            "width": 340
+          },
+          "hidden": false,
+          "locked": false
+        },
+        "shape-4-1": {
+          "alignment": [],
+          "type": "shape",
+          "content": "line",
+          "styles": {
+            "letterSpacing": "1px",
+            "fontSize": "16px",
+            "fontFamily": "Poppins",
+            "color": "#000000",
+            "fontWeight": "400",
+            "textAlign": "left",
+            "lineHeight": "1.2",
+            "padding": "0px 0px 0px 0px",
+            "borderColor": "#2563EB",
+            "textDecoration": "none",
+            "transform": "none",
+            "borderRadius": "0 0 0 0",
+            "borderWidth": "1px",
+            "borderStyle": "solid",
+            "rotate": "0deg",
+            "fontStyle": "normal",
+            "backgroundColor": "#2563EB",
+            "textTransform": "none",
+            "opacity": "100",
+            "filter": "none",
+            "textFilter": "none"
+          },
+          "position": {
+            "x": 28,
+            "y": 290
+          },
+          "size": {
+            "height": 10,
+            "width": 50
+          },
+          "hidden": false,
+          "locked": false
+        },
+        "text-4-0": {
+          "alignment": [],
+          "type": "text",
+          "content": "Every feature \u2014 from the carousel builder to the AI engine to the scheduling system \u2014 went through one brain.",
+          "styles": {
+            "letterSpacing": "0px",
+            "fontSize": "15px",
+            "fontFamily": "Poppins",
+            "color": "#6B7280",
+            "fontWeight": "400",
+            "textAlign": "left",
+            "lineHeight": "1.6",
+            "padding": "0px 0px 0px 0px",
+            "borderColor": "transparent",
+            "textDecoration": "none",
+            "transform": "none",
+            "borderRadius": "0 0 0 0",
+            "borderWidth": "0px",
+            "borderStyle": "solid",
+            "rotate": "0deg",
+            "fontStyle": "normal",
+            "backgroundColor": "transparent",
+            "textTransform": "none",
+            "opacity": "100",
+            "filter": "none",
+            "textFilter": "none"
+          },
+          "position": {
+            "x": 28,
+            "y": 315
+          },
+          "size": {
+            "height": 80,
+            "width": 330
+          },
+          "hidden": false,
+          "locked": false
+        },
+        "heading-4-1": {
+          "alignment": [],
+          "type": "heading",
+          "content": "1",
+          "styles": {
+            "letterSpacing": "0px",
+            "fontSize": "180px",
+            "fontFamily": "Poppins",
+            "color": "#FFFFFF",
+            "fontWeight": "700",
+            "textAlign": "right",
+            "lineHeight": "1.0",
+            "padding": "0px 0px 0px 0px",
+            "borderColor": "transparent",
+            "textDecoration": "none",
+            "transform": "none",
+            "borderRadius": "0 0 0 0",
+            "borderWidth": "0px",
+            "borderStyle": "solid",
+            "rotate": "0deg",
+            "fontStyle": "normal",
+            "backgroundColor": "transparent",
+            "textTransform": "none",
+            "opacity": "4",
+            "filter": "none",
+            "textFilter": "none"
+          },
+          "position": {
+            "x": 200,
+            "y": 300
+          },
+          "size": {
+            "height": 180,
+            "width": 180
+          },
+          "hidden": false,
+          "locked": false
+        }
+      },
+      "groups": []
+    },
+    {
+      "id": 5,
+      "repeatable": false,
+      "backgroundColor": "#FFFFFF",
+      "elements": {
+        "brand-logo": {
+          "alignment": [],
+          "type": "image",
+          "content": "",
+          "position": {
+            "x": 28,
+            "y": 28
+          },
+          "size": {
+            "width": 50,
+            "height": 50
+          },
+          "styles": {
+            "letterSpacing": "0px",
+            "fontSize": "16px",
+            "fontFamily": "Poppins",
+            "color": "#000000",
+            "fontWeight": "400",
+            "textAlign": "left",
+            "lineHeight": "1.2",
+            "padding": "0px 0px 0px 0px",
+            "borderColor": "#111111",
+            "textDecoration": "none",
+            "transform": "none",
+            "borderRadius": "50% 50% 50% 50%",
+            "borderWidth": "2px",
+            "borderStyle": "solid",
+            "rotate": "0deg",
+            "fontStyle": "normal",
+            "backgroundColor": "transparent",
+            "textTransform": "none",
+            "opacity": "100",
+            "filter": "none",
+            "textFilter": "none"
+          },
+          "src": "/workspaces/6863f1ccf1e044e71b0c6725/UBS_1756117616801_images",
+          "hidden": true,
+          "locked": false
+        },
+        "brand-name": {
+          "alignment": [],
+          "type": "subheading",
+          "content": "Sunny Bundel",
+          "styles": {
+            "letterSpacing": "0px",
+            "fontSize": "14px",
+            "fontFamily": "Poppins",
+            "color": "#111111",
+            "fontWeight": "600",
+            "textAlign": "left",
+            "lineHeight": "1.2",
+            "padding": "0px 0px 0px 0px",
+            "borderColor": "transparent",
+            "textDecoration": "none",
+            "transform": "none",
+            "borderRadius": "0 0 0 0",
+            "borderWidth": "0px",
+            "borderStyle": "solid",
+            "rotate": "0deg",
+            "fontStyle": "normal",
+            "backgroundColor": "transparent",
+            "textTransform": "none",
+            "opacity": "100",
+            "filter": "none",
+            "textFilter": "none"
+          },
+          "position": {
+            "x": 86,
+            "y": 30
+          },
+          "size": {
+            "height": 24,
+            "width": 140
+          },
+          "hidden": true,
+          "locked": false
+        },
+        "brand-user": {
+          "alignment": [],
+          "type": "text",
+          "content": "@sunnybundel",
+          "styles": {
+            "letterSpacing": "0px",
+            "fontSize": "12px",
+            "fontFamily": "Poppins",
+            "color": "#6B7280",
+            "fontWeight": "400",
+            "textAlign": "left",
+            "lineHeight": "1.2",
+            "padding": "0px 0px 0px 0px",
+            "borderColor": "transparent",
+            "textDecoration": "none",
+            "transform": "none",
+            "borderRadius": "0 0 0 0",
+            "borderWidth": "0px",
+            "borderStyle": "solid",
+            "rotate": "0deg",
+            "fontStyle": "normal",
+            "backgroundColor": "transparent",
+            "textTransform": "none",
+            "opacity": "100",
+            "filter": "none",
+            "textFilter": "none"
+          },
+          "position": {
+            "x": 86,
+            "y": 50
+          },
+          "size": {
+            "height": 22,
+            "width": 140
+          },
+          "hidden": true,
+          "locked": false
+        },
+        "numbering": {
+          "alignment": [],
+          "content": "",
+          "type": "text",
+          "locked": false,
+          "styles": {
+            "letterSpacing": "0px",
+            "fontSize": "13px",
+            "fontFamily": "Poppins",
+            "color": "#2563EB",
+            "fontWeight": "600",
+            "textAlign": "center",
+            "lineHeight": "1.5",
+            "padding": "0px 0px 0px 0px",
+            "borderColor": "#2563EB",
+            "textDecoration": "none",
+            "transform": "none",
+            "borderRadius": "50% 50% 50% 50%",
+            "borderWidth": "1px",
+            "borderStyle": "solid",
+            "rotate": "0deg",
+            "fontStyle": "normal",
+            "backgroundColor": "transparent",
+            "textTransform": "none",
+            "opacity": "100",
+            "filter": "none",
+            "textFilter": "none"
+          },
+          "position": {
+            "x": 330,
+            "y": 28
+          },
+          "size": {
+            "height": 26,
+            "width": 26
+          },
+          "hidden": true
+        },
+        "text-5-0": {
+          "alignment": [],
+          "type": "text",
+          "content": "Is it overwhelming?",
+          "styles": {
+            "letterSpacing": "0px",
+            "fontSize": "15px",
+            "fontFamily": "Poppins",
+            "color": "#6B7280",
+            "fontWeight": "400",
+            "textAlign": "left",
+            "lineHeight": "1.4",
+            "padding": "0px 0px 0px 0px",
+            "borderColor": "transparent",
+            "textDecoration": "none",
+            "transform": "none",
+            "borderRadius": "0 0 0 0",
+            "borderWidth": "0px",
+            "borderStyle": "solid",
+            "rotate": "0deg",
+            "fontStyle": "normal",
+            "backgroundColor": "transparent",
+            "textTransform": "none",
+            "opacity": "100",
+            "filter": "none",
+            "textFilter": "none"
+          },
+          "position": {
+            "x": 28,
+            "y": 60
+          },
+          "size": {
+            "height": 26,
+            "width": 300
+          },
+          "hidden": false,
+          "locked": false
+        },
+        "heading-5-0": {
+          "alignment": [],
+          "type": "heading",
+          "content": "Sometimes.",
+          "styles": {
+            "letterSpacing": "-0.5px",
+            "fontSize": "36px",
+            "fontFamily": "Poppins",
+            "color": "#111111",
+            "fontWeight": "700",
+            "textAlign": "left",
+            "lineHeight": "1.1",
+            "padding": "0px 0px 0px 0px",
+            "borderColor": "transparent",
+            "textDecoration": "none",
+            "transform": "none",
+            "borderRadius": "0 0 0 0",
+            "borderWidth": "0px",
+            "borderStyle": "solid",
+            "rotate": "0deg",
+            "fontStyle": "normal",
+            "backgroundColor": "transparent",
+            "textTransform": "none",
+            "opacity": "100",
+            "filter": "none",
+            "textFilter": "none"
+          },
+          "position": {
+            "x": 28,
+            "y": 92
+          },
+          "size": {
+            "height": 48,
+            "width": 300
+          },
+          "hidden": false,
+          "locked": false
+        },
+        "shape-5-0": {
+          "alignment": [],
+          "type": "shape",
+          "content": "line",
+          "styles": {
+            "letterSpacing": "1px",
+            "fontSize": "16px",
+            "fontFamily": "Poppins",
+            "color": "#000000",
+            "fontWeight": "400",
+            "textAlign": "left",
+            "lineHeight": "1.2",
+            "padding": "0px 0px 0px 0px",
+            "borderColor": "#E5E7EB",
+            "textDecoration": "none",
+            "transform": "none",
+            "borderRadius": "0 0 0 0",
+            "borderWidth": "1px",
+            "borderStyle": "solid",
+            "rotate": "0deg",
+            "fontStyle": "normal",
+            "backgroundColor": "#E5E7EB",
+            "textTransform": "none",
+            "opacity": "100",
+            "filter": "none",
+            "textFilter": "none"
+          },
+          "position": {
+            "x": 28,
+            "y": 175
+          },
+          "size": {
+            "height": 10,
+            "width": 324
+          },
+          "hidden": false,
+          "locked": false
+        },
+        "text-5-1": {
+          "alignment": [],
+          "type": "text",
+          "content": "Would I trade it?",
+          "styles": {
+            "letterSpacing": "0px",
+            "fontSize": "15px",
+            "fontFamily": "Poppins",
+            "color": "#6B7280",
+            "fontWeight": "400",
+            "textAlign": "left",
+            "lineHeight": "1.4",
+            "padding": "0px 0px 0px 0px",
+            "borderColor": "transparent",
+            "textDecoration": "none",
+            "transform": "none",
+            "borderRadius": "0 0 0 0",
+            "borderWidth": "0px",
+            "borderStyle": "solid",
+            "rotate": "0deg",
+            "fontStyle": "normal",
+            "backgroundColor": "transparent",
+            "textTransform": "none",
+            "opacity": "100",
+            "filter": "none",
+            "textFilter": "none"
+          },
+          "position": {
+            "x": 28,
+            "y": 210
+          },
+          "size": {
+            "height": 26,
+            "width": 300
+          },
+          "hidden": false,
+          "locked": false
+        },
+        "heading-5-1": {
+          "alignment": [],
+          "type": "heading",
+          "content": "<font color=\"#2563EB\">Never.</font>",
+          "styles": {
+            "letterSpacing": "-0.5px",
+            "fontSize": "36px",
+            "fontFamily": "Poppins",
+            "color": "#2563EB",
+            "fontWeight": "700",
+            "textAlign": "left",
+            "lineHeight": "1.1",
+            "padding": "0px 0px 0px 0px",
+            "borderColor": "transparent",
+            "textDecoration": "none",
+            "transform": "none",
+            "borderRadius": "0 0 0 0",
+            "borderWidth": "0px",
+            "borderStyle": "solid",
+            "rotate": "0deg",
+            "fontStyle": "normal",
+            "backgroundColor": "transparent",
+            "textTransform": "none",
+            "opacity": "100",
+            "filter": "none",
+            "textFilter": "none"
+          },
+          "position": {
+            "x": 28,
+            "y": 242
+          },
+          "size": {
+            "height": 48,
+            "width": 300
+          },
+          "hidden": false,
+          "locked": false
+        },
+        "shape-5-1": {
+          "alignment": [],
+          "type": "shape",
+          "content": "line",
+          "styles": {
+            "letterSpacing": "1px",
+            "fontSize": "16px",
+            "fontFamily": "Poppins",
+            "color": "#000000",
+            "fontWeight": "400",
+            "textAlign": "left",
+            "lineHeight": "1.2",
+            "padding": "0px 0px 0px 0px",
+            "borderColor": "#E5E7EB",
+            "textDecoration": "none",
+            "transform": "none",
+            "borderRadius": "0 0 0 0",
+            "borderWidth": "1px",
+            "borderStyle": "solid",
+            "rotate": "0deg",
+            "fontStyle": "normal",
+            "backgroundColor": "#E5E7EB",
+            "textTransform": "none",
+            "opacity": "100",
+            "filter": "none",
+            "textFilter": "none"
+          },
+          "position": {
+            "x": 28,
+            "y": 325
+          },
+          "size": {
+            "height": 10,
+            "width": 324
+          },
+          "hidden": false,
+          "locked": false
+        },
+        "text-5-2": {
+          "alignment": [],
+          "type": "text",
+          "content": "The best developers aren't the ones who know one thing deeply.",
+          "styles": {
+            "letterSpacing": "0px",
+            "fontSize": "14px",
+            "fontFamily": "Poppins",
+            "color": "#6B7280",
+            "fontWeight": "400",
+            "textAlign": "left",
+            "lineHeight": "1.5",
+            "padding": "0px 0px 0px 0px",
+            "borderColor": "transparent",
+            "textDecoration": "none",
+            "transform": "none",
+            "borderRadius": "0 0 0 0",
+            "borderWidth": "0px",
+            "borderStyle": "solid",
+            "rotate": "0deg",
+            "fontStyle": "normal",
+            "backgroundColor": "transparent",
+            "textTransform": "none",
+            "opacity": "100",
+            "filter": "none",
+            "textFilter": "none"
+          },
+          "position": {
+            "x": 28,
+            "y": 355
+          },
+          "size": {
+            "height": 45,
+            "width": 330
+          },
+          "hidden": false,
+          "locked": false
+        },
+        "heading-5-2": {
+          "alignment": [],
+          "type": "heading",
+          "content": "They connect dots across the entire stack.",
+          "styles": {
+            "letterSpacing": "-0.5px",
+            "fontSize": "20px",
+            "fontFamily": "Poppins",
+            "color": "#111111",
+            "fontWeight": "700",
+            "textAlign": "left",
+            "lineHeight": "1.2",
+            "padding": "0px 0px 0px 0px",
+            "borderColor": "transparent",
+            "textDecoration": "none",
+            "transform": "none",
+            "borderRadius": "0 0 0 0",
+            "borderWidth": "0px",
+            "borderStyle": "solid",
+            "rotate": "0deg",
+            "fontStyle": "normal",
+            "backgroundColor": "transparent",
+            "textTransform": "none",
+            "opacity": "100",
+            "filter": "none",
+            "textFilter": "none"
+          },
+          "position": {
+            "x": 28,
+            "y": 405
+          },
+          "size": {
+            "height": 50,
+            "width": 330
+          },
+          "hidden": false,
+          "locked": false
+        }
+      },
+      "groups": []
+    },
+    {
+      "id": 6,
+      "repeatable": false,
+      "backgroundColor": "#111111",
+      "elements": {
+        "brand-logo": {
+          "alignment": [],
+          "type": "image",
+          "content": "",
+          "position": {
+            "x": 28,
+            "y": 405
+          },
+          "size": {
+            "width": 50,
+            "height": 50
+          },
+          "styles": {
+            "letterSpacing": "0px",
+            "fontSize": "16px",
+            "fontFamily": "Poppins",
+            "color": "#000000",
+            "fontWeight": "400",
+            "textAlign": "left",
+            "lineHeight": "1.2",
+            "padding": "0px 0px 0px 0px",
+            "borderColor": "#2563EB",
+            "textDecoration": "none",
+            "transform": "none",
+            "borderRadius": "50% 50% 50% 50%",
+            "borderWidth": "2px",
+            "borderStyle": "solid",
+            "rotate": "0deg",
+            "fontStyle": "normal",
+            "backgroundColor": "transparent",
+            "textTransform": "none",
+            "opacity": "100",
+            "filter": "none",
+            "textFilter": "none"
+          },
+          "src": "/workspaces/6863f1ccf1e044e71b0c6725/UBS_1756117616801_images",
+          "hidden": false,
+          "locked": false
+        },
+        "brand-name": {
+          "alignment": [],
+          "type": "subheading",
+          "content": "Sunny Bundel",
+          "styles": {
+            "letterSpacing": "0px",
+            "fontSize": "14px",
+            "fontFamily": "Poppins",
+            "color": "#FFFFFF",
+            "fontWeight": "600",
+            "textAlign": "left",
+            "lineHeight": "1.2",
+            "padding": "0px 0px 0px 0px",
+            "borderColor": "transparent",
+            "textDecoration": "none",
+            "transform": "none",
+            "borderRadius": "0 0 0 0",
+            "borderWidth": "0px",
+            "borderStyle": "solid",
+            "rotate": "0deg",
+            "fontStyle": "normal",
+            "backgroundColor": "transparent",
+            "textTransform": "none",
+            "opacity": "100",
+            "filter": "none",
+            "textFilter": "none"
+          },
+          "position": {
+            "x": 86,
+            "y": 410
+          },
+          "size": {
+            "height": 24,
+            "width": 140
+          },
+          "hidden": false,
+          "locked": false
+        },
+        "brand-user": {
+          "alignment": [],
+          "type": "text",
+          "content": "@sunnybundel",
+          "styles": {
+            "letterSpacing": "0px",
+            "fontSize": "12px",
+            "fontFamily": "Poppins",
+            "color": "#6B7280",
+            "fontWeight": "400",
+            "textAlign": "left",
+            "lineHeight": "1.2",
+            "padding": "0px 0px 0px 0px",
+            "borderColor": "transparent",
+            "textDecoration": "none",
+            "transform": "none",
+            "borderRadius": "0 0 0 0",
+            "borderWidth": "0px",
+            "borderStyle": "solid",
+            "rotate": "0deg",
+            "fontStyle": "normal",
+            "backgroundColor": "transparent",
+            "textTransform": "none",
+            "opacity": "100",
+            "filter": "none",
+            "textFilter": "none"
+          },
+          "position": {
+            "x": 86,
+            "y": 432
+          },
+          "size": {
+            "height": 22,
+            "width": 140
+          },
+          "hidden": false,
+          "locked": false
+        },
+        "numbering": {
+          "alignment": [],
+          "content": "",
+          "type": "text",
+          "locked": false,
+          "styles": {
+            "letterSpacing": "0px",
+            "fontSize": "13px",
+            "fontFamily": "Poppins",
+            "color": "#2563EB",
+            "fontWeight": "600",
+            "textAlign": "center",
+            "lineHeight": "1.5",
+            "padding": "0px 0px 0px 0px",
+            "borderColor": "#2563EB",
+            "textDecoration": "none",
+            "transform": "none",
+            "borderRadius": "50% 50% 50% 50%",
+            "borderWidth": "1px",
+            "borderStyle": "solid",
+            "rotate": "0deg",
+            "fontStyle": "normal",
+            "backgroundColor": "transparent",
+            "textTransform": "none",
+            "opacity": "100",
+            "filter": "none",
+            "textFilter": "none"
+          },
+          "position": {
+            "x": 330,
+            "y": 28
+          },
+          "size": {
+            "height": 26,
+            "width": 26
+          },
+          "hidden": true
+        },
+        "shape-6-0": {
+          "alignment": [],
+          "type": "shape",
+          "content": "rectangle",
+          "styles": {
+            "letterSpacing": "1px",
+            "fontSize": "16px",
+            "fontFamily": "Poppins",
+            "color": "#000000",
+            "fontWeight": "400",
+            "textAlign": "left",
+            "lineHeight": "1.2",
+            "padding": "0px 0px 0px 0px",
+            "borderColor": "transparent",
+            "textDecoration": "none",
+            "transform": "none",
+            "borderRadius": "0 0 0 0",
+            "borderWidth": "0px",
+            "borderStyle": "solid",
+            "rotate": "0deg",
+            "fontStyle": "normal",
+            "backgroundColor": "#2563EB",
+            "textTransform": "none",
+            "opacity": "100",
+            "filter": "none",
+            "textFilter": "none"
+          },
+          "position": {
+            "x": 0,
+            "y": 0
+          },
+          "size": {
+            "height": 480,
+            "width": 5
+          },
+          "hidden": false,
+          "locked": false
+        },
+        "heading-6-0": {
+          "alignment": [],
+          "type": "heading",
+          "content": "What's your<br>take \u2014<br><font color=\"#2563EB\">specialize</font><br>or go<br>full-stack?",
+          "styles": {
+            "letterSpacing": "-1px",
+            "fontSize": "40px",
+            "fontFamily": "Poppins",
+            "color": "#FFFFFF",
+            "fontWeight": "700",
+            "textAlign": "left",
+            "lineHeight": "1.1",
+            "padding": "0px 0px 0px 0px",
+            "borderColor": "transparent",
+            "textDecoration": "none",
+            "transform": "none",
+            "borderRadius": "0 0 0 0",
+            "borderWidth": "0px",
+            "borderStyle": "solid",
+            "rotate": "0deg",
+            "fontStyle": "normal",
+            "backgroundColor": "transparent",
+            "textTransform": "none",
+            "opacity": "100",
+            "filter": "none",
+            "textFilter": "none"
+          },
+          "position": {
+            "x": 28,
+            "y": 50
+          },
+          "size": {
+            "height": 240,
+            "width": 340
+          },
+          "hidden": false,
+          "locked": false
+        },
+        "shape-6-1": {
+          "alignment": [],
+          "type": "shape",
+          "content": "line",
+          "styles": {
+            "letterSpacing": "1px",
+            "fontSize": "16px",
+            "fontFamily": "Poppins",
+            "color": "#000000",
+            "fontWeight": "400",
+            "textAlign": "left",
+            "lineHeight": "1.2",
+            "padding": "0px 0px 0px 0px",
+            "borderColor": "#2563EB",
+            "textDecoration": "none",
+            "transform": "none",
+            "borderRadius": "0 0 0 0",
+            "borderWidth": "1px",
+            "borderStyle": "solid",
+            "rotate": "0deg",
+            "fontStyle": "normal",
+            "backgroundColor": "#2563EB",
+            "textTransform": "none",
+            "opacity": "100",
+            "filter": "none",
+            "textFilter": "none"
+          },
+          "position": {
+            "x": 28,
+            "y": 310
+          },
+          "size": {
+            "height": 10,
+            "width": 50
+          },
+          "hidden": false,
+          "locked": false
+        },
+        "text-6-0": {
+          "alignment": [],
+          "type": "text",
+          "content": "Drop your answer below.",
+          "styles": {
+            "letterSpacing": "0px",
+            "fontSize": "15px",
+            "fontFamily": "Poppins",
+            "color": "#6B7280",
+            "fontWeight": "400",
+            "textAlign": "left",
+            "lineHeight": "1.4",
+            "padding": "0px 0px 0px 0px",
+            "borderColor": "transparent",
+            "textDecoration": "none",
+            "transform": "none",
+            "borderRadius": "0 0 0 0",
+            "borderWidth": "0px",
+            "borderStyle": "solid",
+            "rotate": "0deg",
+            "fontStyle": "normal",
+            "backgroundColor": "transparent",
+            "textTransform": "none",
+            "opacity": "100",
+            "filter": "none",
+            "textFilter": "none"
+          },
+          "position": {
+            "x": 28,
+            "y": 335
+          },
+          "size": {
+            "height": 24,
+            "width": 300
+          },
+          "hidden": false,
+          "locked": false
+        },
+        "text-6-1": {
+          "alignment": [],
+          "type": "text",
+          "content": "#FullStackDeveloper  #BuildInPublic<br>#SaaS  #WebDevelopment  #SoloFounder",
+          "styles": {
+            "letterSpacing": "0px",
+            "fontSize": "10px",
+            "fontFamily": "Poppins",
+            "color": "#4B5563",
+            "fontWeight": "400",
+            "textAlign": "left",
+            "lineHeight": "1.6",
+            "padding": "0px 0px 0px 0px",
+            "borderColor": "transparent",
+            "textDecoration": "none",
+            "transform": "none",
+            "borderRadius": "0 0 0 0",
+            "borderWidth": "0px",
+            "borderStyle": "solid",
+            "rotate": "0deg",
+            "fontStyle": "normal",
+            "backgroundColor": "transparent",
+            "textTransform": "none",
+            "opacity": "100",
+            "filter": "none",
+            "textFilter": "none"
+          },
+          "position": {
+            "x": 28,
+            "y": 370
+          },
+          "size": {
+            "height": 34,
+            "width": 330
+          },
+          "hidden": false,
+          "locked": false
+        }
+      },
+      "groups": []
+    }
+  ],
+  "thumbnails": [],
+  "backgroundImage": "",
+  "backgroundColor": "#FFFFFF",
+  "backgroundOpacity": 1,
+  "headingColor": "#111111",
+  "subHeadingColor": "#2563EB",
+  "textColor": "#6B7280",
+  "showNumbering": false,
+  "numberStyle": "numeric",
+  "numberFormat": "{n}",
+  "brandKitPreferences": {
+    "showLogo": true,
+    "showName": true,
+    "showUsername": true
+  },
+  "selectedBrandKit": "68ac3a7124bc47eaf97c40f6"
+}
