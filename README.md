@@ -5,7 +5,7 @@ right from Claude.
 
 ## Install
 
-In Claude, add Carousify from the plugin directory. In Claude Code:
+In Claude Code:
 
 ```
 /plugin install carousify --marketplace carousify/claude-plugin
