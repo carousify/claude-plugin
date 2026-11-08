@@ -10,6 +10,9 @@
   },
   "homepage": "https://carousify.com",
   "privacyPolicyUrl": "https://carousify.com/privacy-policy/",
+  "termsOfServiceUrl": "https://carousify.com/terms/",
+  "documentationUrl": "https://docs.carousify.com/mcp/claude-plugin",
+  "supportUrl": "https://carousify.com/contact-us/",
   "repository": "https://github.com/carousify/claude-plugin",
   "license": "MIT",
   "keywords": [
