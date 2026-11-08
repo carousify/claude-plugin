@@ -3,6 +3,10 @@
 Create, design, schedule and analyze LinkedIn and Instagram carousels and posts with [Carousify](https://carousify.com),
 right from Claude.
 
+![A LinkedIn carousel created by Claude with the Carousify plugin: cover, two content slides and the closing slide](assets/example-carousel.jpg)
+
+*A carousel Claude wrote and designed through Carousify, rendered with the brand kit on every slide.*
+
 ## Install
 
 In Claude Code:
